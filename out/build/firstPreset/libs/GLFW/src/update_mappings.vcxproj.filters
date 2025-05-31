@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\1 OpenGL\ogl_guide\out\build\firstPreset\CMakeFiles\bed00a90f022ab1218696459940ccf49\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\1 OpenGL\ogl_guide\libs\glfw\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\1 OpenGL\ogl_guide\libs\glfw\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="D:\1 OpenGL\ogl_guide\libs\glfw\CMake\GenerateMappings.cmake" />
+    <None Include="D:\1 OpenGL\ogl_guide\out\build\firstPreset\libs\glfw\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{392BB8B9-C5C8-3108-929D-075E072CE718}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{99865C57-7CCD-3503-AB30-82D28EA97BF7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

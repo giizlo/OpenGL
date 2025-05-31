@@ -1,0 +1,16 @@
+D:/1 OpenGL/ogl_guide/out/build/firstPreset/CMakeFiles/ogl_start.dir
+D:/1 OpenGL/ogl_guide/out/build/firstPreset/CMakeFiles/glad.dir
+D:/1 OpenGL/ogl_guide/out/build/firstPreset/CMakeFiles/INSTALL.dir
+D:/1 OpenGL/ogl_guide/out/build/firstPreset/CMakeFiles/ALL_BUILD.dir
+D:/1 OpenGL/ogl_guide/out/build/firstPreset/CMakeFiles/ZERO_CHECK.dir
+D:/1 OpenGL/ogl_guide/out/build/firstPreset/libs/glfw/CMakeFiles/uninstall.dir
+D:/1 OpenGL/ogl_guide/out/build/firstPreset/libs/glfw/CMakeFiles/INSTALL.dir
+D:/1 OpenGL/ogl_guide/out/build/firstPreset/libs/glfw/CMakeFiles/ALL_BUILD.dir
+D:/1 OpenGL/ogl_guide/out/build/firstPreset/libs/glfw/src/CMakeFiles/glfw.dir
+D:/1 OpenGL/ogl_guide/out/build/firstPreset/libs/glfw/src/CMakeFiles/update_mappings.dir
+D:/1 OpenGL/ogl_guide/out/build/firstPreset/libs/glfw/src/CMakeFiles/INSTALL.dir
+D:/1 OpenGL/ogl_guide/out/build/firstPreset/libs/glfw/docs/CMakeFiles/INSTALL.dir
+D:/1 OpenGL/ogl_guide/out/build/firstPreset/libs/glm/CMakeFiles/INSTALL.dir
+D:/1 OpenGL/ogl_guide/out/build/firstPreset/libs/glm/CMakeFiles/ALL_BUILD.dir
+D:/1 OpenGL/ogl_guide/out/build/firstPreset/libs/glm/glm/CMakeFiles/glm.dir
+D:/1 OpenGL/ogl_guide/out/build/firstPreset/libs/glm/glm/CMakeFiles/INSTALL.dir

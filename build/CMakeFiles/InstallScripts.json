@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/1 OpenGL/ogl_guide/build/cmake_install.cmake",
+		"D:/1 OpenGL/ogl_guide/build/libs/glfw/cmake_install.cmake",
+		"D:/1 OpenGL/ogl_guide/build/libs/glfw/src/cmake_install.cmake",
+		"D:/1 OpenGL/ogl_guide/build/libs/glm/cmake_install.cmake",
+		"D:/1 OpenGL/ogl_guide/build/libs/glm/glm/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

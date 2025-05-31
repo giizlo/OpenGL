@@ -1,0 +1,12 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/1 OpenGL/ogl_guide/out/build/firstPreset/cmake_install.cmake",
+		"D:/1 OpenGL/ogl_guide/out/build/firstPreset/libs/glfw/cmake_install.cmake",
+		"D:/1 OpenGL/ogl_guide/out/build/firstPreset/libs/glfw/src/cmake_install.cmake",
+		"D:/1 OpenGL/ogl_guide/out/build/firstPreset/libs/glfw/docs/cmake_install.cmake",
+		"D:/1 OpenGL/ogl_guide/out/build/firstPreset/libs/glm/cmake_install.cmake",
+		"D:/1 OpenGL/ogl_guide/out/build/firstPreset/libs/glm/glm/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
